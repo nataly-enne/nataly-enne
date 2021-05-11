@@ -53,8 +53,8 @@ Here are some of my sites that you may find interesting, but feel free to take a
 ## Contact me ✉️
 💬 Ask me about anything and everything.
 
-[![Linkedin: nataly-enne](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%A1taly-enne-b0b0b4141/?locale=en_US)
-[![Email: enne-nataly](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ennenataly@gmail.com)
+[![Linkedin: nataly-enne](https://img.shields.io/badge/natalyenne-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%A1taly-enne-b0b0b4141/?locale=en_US)
+[![Email: enne-nataly](https://img.shields.io/badge/natalyenne-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ennenataly@gmail.com)
 
 ### Want to know more about me? Take a look at my resume:
 📄 <a href="https://drive.google.com/file/d/1QVvEkfsWC6_Ju2O8Y2l7lRFXQWVRMs05/view?usp=sharing" target="_blank" >Resume</a>
