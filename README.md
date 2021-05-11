@@ -1,3 +1,4 @@
+
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
@@ -39,8 +40,15 @@ Here are some of my sites that you may find interesting, but feel free to take a
 - [O palimpsesto](https://opalimpsesto.com/)
 - [My website](https://nataly-enne.github.io/)
 
+<img align='right' src='https://user-images.githubusercontent.com/26802307/117741881-d553f180-b1d9-11eb-8863-fc60eb136761.png' width='200"'>
+
 ####  If you like what I do, maybe consider buying me a coffee 🥺👉👈
+
+
+
 <a href="https://www.buymeacoffee.com/natalyenne" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+
+
 
 ## Contact me ✉️
 💬 Ask me about anything and everything.
