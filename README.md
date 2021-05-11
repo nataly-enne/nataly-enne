@@ -49,7 +49,7 @@ Here are some of my sites that you may find interesting, but feel free to take a
 [![Email: enne-nataly](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ennenataly@gmail.com)
 
 ### Want to know more about me? Take a look at my resume:
-📄 <a href="https://drive.google.com/file/d/13LXak8sdyXRVCIZxHHdMorSIiXwNdPDa/view?usp=sharing" target="_blank" >Resume</a>
+📄 <a href="https://drive.google.com/file/d/1QVvEkfsWC6_Ju2O8Y2l7lRFXQWVRMs05/view?usp=sharing" target="_blank" >Resume</a>
 
 
 
