@@ -3,9 +3,9 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
-I'm Nátaly Enne, a Full Stack developer and a lover of _front-end technologies_ from Brazil. I'm an undergraduate student in Information Technology at Federal University of Rio Grande do Norte (UFRN).
+I'm Nátaly Enne, a Full Stack developer and a lover of _front-end_ technologies from Brazil. I'm an undergraduate student in Information Technology and Computer Science at Federal University of Rio Grande do Norte (UFRN).
 
-_I'm Front-End Developer at [ACL Tecnologia](https://github.com/ACL-TECNOLOGIA)_
+_I'm Front End Developer at [ACL Tecnologia](https://github.com/ACL-TECNOLOGIA)_
 
 ## ⚡ More about me
 
@@ -54,10 +54,10 @@ Here are some of my sites that you may find interesting, but feel free to take a
 💬 Ask me about anything and everything.
 
 [![Linkedin: nataly-enne](https://img.shields.io/badge/natalyenne-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%A1taly-enne-b0b0b4141/?locale=en_US)
-[![Email: enne-nataly](https://img.shields.io/badge/natalyenne-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ennenataly@gmail.com)
+[![Email: enne-nataly](https://img.shields.io/badge/ennenataly-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ennenataly@gmail.com)
 
 ### Want to know more about me? Take a look at my resume:
-📄 <a href="https://drive.google.com/file/d/1QVvEkfsWC6_Ju2O8Y2l7lRFXQWVRMs05/view?usp=sharing" target="_blank" >Resume</a>
+📄 <a href="https://drive.google.com/file/d/1DgV3HZ1_UZWU-R7kummbUYW49XPvHzAn/view?usp=sharing" target="_blank" >Resume</a>
 
 
 
