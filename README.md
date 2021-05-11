@@ -3,7 +3,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
-I'm Nátaly Enne, a Full Stack developer and a lover of _front-end technologies_ from Brazil. I'm undergraduate student in Information Technology at Universidade Federal do Rio Grande do Norte (UFRN).
+I'm Nátaly Enne, a Full Stack developer and a lover of _front-end technologies_ from Brazil. I'm an undergraduate student in Information Technology at Universidade Federal do Rio Grande do Norte (UFRN).
 
 _I'm Front-End Developer at [ACL Tecnologia](https://github.com/ACL-TECNOLOGIA)_
 
