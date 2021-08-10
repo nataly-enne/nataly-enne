@@ -5,7 +5,7 @@
 
 I'm Nátaly Enne, a Full Stack developer and a lover of _front-end_ technologies from Brazil. I'm an undergraduate student in Information Technology and Computer Science at Federal University of Rio Grande do Norte (UFRN).
 
-_I'm Front End Developer at [ACL Tecnologia](https://github.com/ACL-TECNOLOGIA)_
+_I'm Front End Developer at [Gupy](https://github.com/gupy-io)_
 
 ## ⚡ More about me
 
