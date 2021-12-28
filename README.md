@@ -19,8 +19,8 @@ const nataly = {
             js: ["node", "express"],
         },
         frontEnd: {
-            js: ["Vue", "ajax", "jQuery"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["Vue", "ajax", "jQuery", "react", "typescript"],
+            css: ["materialize", "vuetify", "bootstrap", "tailwlind"]
         },
         mobileApp: {
             native: ["Android Development", "Ios Development"]
