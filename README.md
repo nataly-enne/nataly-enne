@@ -37,7 +37,6 @@ const nataly = {
 
 ## ⭐️ Sites
 Here are some of my sites that you may find interesting, but feel free to take a look at my repositories
-- [O palimpsesto](https://opalimpsesto.com/)
 - [My website](https://nataly-enne.github.io/)
 
 <img align='right' src='https://user-images.githubusercontent.com/26802307/117741881-d553f180-b1d9-11eb-8863-fc60eb136761.png' width='200"'>
