@@ -25,7 +25,7 @@ const nataly = {
         mobileApp: {
             native: ["Android Development", "Ios Development"]
         },
-        devOps: ["Docker🐳", "Nginx"],
+        devOps: ["Docker🐳", "Nginx", "Kubernets", "AWS"],
         databases: ["Maria", "MySql", "postgreSQL"],
         misc: ["Firebase", "Socket.IO", "PHP"],
         ux/ui: ["Figma", "AdobeXD", "Miro"]
