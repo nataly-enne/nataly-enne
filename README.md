@@ -20,7 +20,7 @@ const nataly = {
         },
         frontEnd: {
             js: ["Vue", "ajax", "jQuery", "react", "typescript"],
-            css: ["materialize", "vuetify", "bootstrap", "tailwlind"]
+            css: ["styled-components", "materialize", "vuetify", "bootstrap", "tailwlind"]
         },
         mobileApp: {
             native: ["Android Development", "Ios Development"]
